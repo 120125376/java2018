@@ -18,4 +18,6 @@ public class User extends BaseEntity
     private Integer id;
     private String  userName;
     private Integer age;
+    private String  wef;
+    private String fe;
 }
